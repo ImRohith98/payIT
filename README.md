@@ -1,1 +1,8 @@
 # payIT
+
+
+#Frontend 
+
+#Backend
+
+#Database
